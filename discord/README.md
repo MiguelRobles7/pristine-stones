@@ -2,7 +2,5 @@
 
 ### [BetterDiscord](https://betterdiscord.app)
 1. Download pristine-stones.theme.css.
-
-### [Powercord](https://powercord.dev)
-1. Go to your themes folder and clone this folder.
-2. Enable the theme in Powercord settings.
+2. Copy the downloaded file to your BetterDiscord themes folder.
+3. Enable the theme in BetterDiscord settings.
