@@ -1,0 +1,21 @@
+{
+    "name": "pristine-stones-dark",
+    "displayName": "Pristine Stones Dark",
+    "description": "Pristine Stones Dark Color Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pristine Stones Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pristine Stones-color-theme.json"
+            }
+        ]
+    }
+}
